@@ -16,6 +16,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0016-3sum-closest) |
+| [0134-gas-station](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0134-gas-station) |
 | [2206-divide-array-into-equal-pairs](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/2206-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0016-3sum-closest) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
