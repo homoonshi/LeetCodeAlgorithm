@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [2206-divide-array-into-equal-pairs](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/2206-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
