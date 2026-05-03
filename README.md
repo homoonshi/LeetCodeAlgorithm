@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/2206-divide-array-into-equal-pairs) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
