@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0016-3sum-closest) |
 | [2206-divide-array-into-equal-pairs](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/2206-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/homoonshi/LeetCodeAlgorithm/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
